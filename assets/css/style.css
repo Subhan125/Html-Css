@@ -1,0 +1,427 @@
+body
+{
+	background-color: #0f0c1c;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #fff;
+	letter-spacing: 0.2px;
+}
+#page-wrap
+{
+	width: 1000px;
+	margin: 0 auto;
+}
+#header
+{
+	height: 180px;
+	margin-bottom: 10px;
+}
+.logo
+{
+	padding-top: 70px;
+	margin-bottom: 10px;
+}
+.top-nav ul li
+{
+float: left;
+margin-right: 20px;
+}
+.top-nav ul li a
+{
+color: #fff;
+font-size: 18px;
+text-transform: uppercase;
+text-decoration: none;
+}
+.top-nav ul li a:hover
+{
+	color: #d71400;
+}
+#main-content
+{
+	margin-bottom: 365px;
+}
+#left-content
+{
+	width: 662px;
+	float: left;
+}
+.page-info h1
+{
+	color: #d71400;
+	font-size: 50px;
+	margin-bottom: 10px;
+	padding-top: 40px;
+}
+.page-info p
+{
+	color: #fff;
+	font-size: 22px;
+	margin-bottom: 20px;
+}
+.posters ul li
+{
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#side-bar
+{
+	width: 310px;
+	float: right;
+}
+.sneak-preview, .ads
+{
+	margin-bottom: 10px;
+}
+.ads-1
+{
+	width: 150px;
+	float: left;
+}
+.ads-2
+{
+	width: 150px;
+	float: right;
+}
+#footer
+{
+}
+#footer-col-one
+{
+	width: 315px;
+	float: left;
+	margin-right: 30px;
+}
+#footer-col-two
+{
+	width: 315px;
+	float: left;
+}
+.footer-info h2
+{
+color: #fff;
+font-size: 20px;
+margin-bottom: 10px;
+}
+.footer-info h2 span
+{
+color: #d71400;
+}
+.footer-info h3
+{
+	color: #d71400;
+	font-size: 22px;
+	margin-bottom: 10px;
+	text-transform: capitalize;
+}
+.footer-info p.datetime
+{
+	color: #8e8f8a;
+	margin-bottom: 10px;
+}
+.footer-info p
+{
+	color: #fff;
+	line-height: 20px;
+	margin-bottom: 20px;
+}
+.footer-info p a
+{
+	text-decoration: none;
+	color: #cd3434;
+}
+.footer-info p a:hover
+{
+	text-decoration: none;
+}
+#footer-col-three
+{
+	width: 310px;
+	float: right;
+}
+.footer-nav ul li
+{
+ margin-bottom: 10px;
+ text-transform: capitalize;
+}
+.footer-nav ul li a
+{
+	color: #fff;
+	font-size: 20px;
+	text-decoration: none;
+}
+.footer-nav ul li a:hover
+{
+	color: #d71400;
+
+}
+#copyrights P
+{
+	color: #8e8f8a;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+/**********************************************************
+               SINGLE CONTRIBUTION PAGE STYLE.
+**********************************************************/
+.single-contribution
+{
+}
+.contribution-thumb
+{
+	background-color: #fff;
+	width: 150px;
+	height: 150px;
+	float: left;
+}
+.contribution-details
+{
+	width: 490px;
+	float: right;
+}
+.contribution-details h2
+{
+	color: #d71400;
+	font-size: 25px;
+	margin-bottom: 10px;
+}
+.contribution-details ul li
+{
+	color: #fff;
+	margin-bottom: 10px;
+}
+.contribution-details ul li span
+{
+	display: inline-block;
+	width: 70px;
+	vertical-align: top;
+}
+.contribution-details ul li span.about
+{
+	width: 400px;
+}
+/****************************************************************
+                 CONTACT US PAGE STYLE
+*****************************************************************/
+.forms h2
+{
+	color: #d71400;
+	font-size: 25px;
+	margin-bottom: 10px;
+}
+.forms ul li
+{
+	margin-bottom: 10px;
+}
+.textfields, .textarea
+{
+	width: 586px;
+	height: 30px;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+	padding-left: 10px;
+}
+.textarea
+{
+	height: 120px;
+	resize: none;
+}
+.btns
+{
+	background-color: #cd3434;
+	color: #fff;
+	font-size: 18px;
+	border: none;
+	border-radius: 5px;
+	padding: 10px;
+
+}
+/*************************************************************
+        SUBSCRIPTION STYLE PAGE
+**************************************************************/
+.subscription-form ul li 
+{
+	color: #fff;
+	font-size: 18px;
+}
+.subscription-form ul li:nth-child(13)
+{
+	border-bottom: 1px solid #474652;
+}
+.subscription-form ul li:nth-child(14)
+{
+	font-size: 12px;
+}
+.subscription-form ul li:nth-child(10)
+{
+	margin-top: 20px;
+}
+/************************************************************************
+                      HOME PAGE STYLE.
+************************************************************************/
+.main-home
+{
+
+}
+.home-poster 
+{
+	width: 315px;
+	float: left;
+}
+.home-poster h2
+{
+color: #cd3434;
+text-transform: uppercase;
+font-size: 20px;
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+.home-poster p
+{
+	line-height: 20px;
+	font-size: 14px;
+}
+.home-poster p a
+{
+	color: #d71400;
+	text-decoration: underline;
+	text-transform: capitalize;
+	font-size: 18px;
+}
+.mini-poster
+{
+	width: 315px;
+	float: right;
+}
+.mini-poster ul li p
+{
+	font-size: 14px;
+	line-height: 20px;
+}
+.mini-poster ul li p a
+{
+	color: #fff
+}
+.mini-poster ul li
+{
+	margin-bottom: 10px;
+}
+/************************************************************************
+            ADVERTISE STYLE PAGE.
+*************************************************************************/
+.advertise-details h2
+{
+	color: #d71400;
+	font-size: 50px;
+	margin-bottom: 10px;
+	margin-top: 30px;
+}
+.advertise-details p
+{
+	font-size: 18px;
+	color: #a8a5ac;
+}
+.advertise-details h3
+{
+	color: #fff;
+	font-size: 25px;
+	margin-bottom: 10px;
+}
+.advertise-details h4
+{
+	color: #fff;
+	font-size: 25px;
+	margin-bottom: 20px;
+	text-transform: capitalize;
+}
+.advertise-details ul li
+{
+	color: #a8a5ac;
+	text-transform: capitalize;
+}
+.advertise-details ul li span
+{
+	display: inline-block;
+	width: 180px;
+	margin-bottom: 10px;
+	color: #a8a5ac;
+	
+}
+.advertise-form h2
+{
+	font-size: 25px;
+	text-transform: capitalize;
+}
+.advertise-form ul li span
+{
+	margin-bottom: 1px;
+}
+/************************************************************************************
+                             Banner PAGE STYLE
+*************************************************************************************/
+.main-banner
+{
+	margin-bottom: 40px;
+}
+.main-banner h2
+{
+ font-size: 22px;
+ text-transform: uppercase;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+.main-banner p
+{
+	font-size: 14px;
+}
+.main-banner p a
+{
+	color: #d71400;
+	text-decoration: none;
+}
+.main-banner p a:hover
+{
+	text-decoration: underline;
+}
+.banner-poster
+{
+	position: relative;
+}
+.social-icons
+{
+	position: absolute;
+	left: -65px;
+	bottom: 0%;
+}
+.blog-form ul li h3
+{
+font-size: 22px;
+}
+.blog-form ul li:nth-child(2)
+{
+	border-bottom: 1px solid #8e8f8a;
+}
+.blog-form ul li p
+{
+	font-size: 12px;
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+h4
+{
+	font-size: 30px;
+	color: #d71400;
+	margin-top: 60px;
+	margin-bottom: 10px;
+}
+
+
+
+
+
+
